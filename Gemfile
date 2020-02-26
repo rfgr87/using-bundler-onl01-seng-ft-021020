@@ -5,7 +5,7 @@ gem 'octokit', '~> 2.0'
 gem 'awsome_print', git: 'https://github.com/awsome_print/awsome_print'
 
 group :test
-gem rspec
+gem "rspec"
 end
  
 group :development do
